@@ -144,9 +144,9 @@
             "transparent"
         ],
 	"CHAT_SWIPE_TO_REPLY_BACKGROUND": [
-	    "#0f1428",
-	    "#0f1428",
-	    "#0f1428"
+	    "#0f1a28",
+	    "#0f1a28",
+	    "#0f1a28"
 	],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
             "#81b6ef",
@@ -439,9 +439,9 @@
             "#fb4934"
         ],
         "TEXT_LINK": [
-            "#2780E6",
-            "#2780E6",
-            "#2780E6"
+            "#27c6e6",
+            "#27c6e6",
+            "#27c6e6"
         ],
         "TEXT_LINK_LOW_SATURATION": [
             "#dcddde",
@@ -449,9 +449,9 @@
             "#dcddde"
         ],
         "TEXT_MUTED": [
-            "#2678d6",
-            "#2678d6",
-            "#2678d6"
+            "#26add6",
+            "#26add6",
+            "#26add6"
         ],
         "TEXT_NORMAL": [
             "#dcddde",
@@ -516,7 +516,7 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://i.imgur.com/gi3CnGV.png",
+        "url": "https://i.imgur.com/7CyyYYd.png",
 	"alpha": 1
     },
     "plus": {
