@@ -9,9 +9,9 @@
     ],
     "semanticColors": {
 	"ANDROID_RIPPLE": [
-	    "#07448a",
-	    "#07448a",
-	    "#07448a"
+	    "#075a8a",
+	    "#075a8a",
+	    "#075a8a"
 	],
         "ACTIVITY_CARD_BACKGROUND": [
             "#fb4934",
@@ -19,9 +19,9 @@
             "#fb4934"
         ],
         "BACKGROUND_FLOATING": [
-            "#102b47",
-            "#102b47",
-            "#102b47"
+            "#103147",
+            "#103147",
+            "#103147"
         ],
         "BACKGROUND_MENTIONED": [
             "#bdae931a",
@@ -39,24 +39,24 @@
             "#bdae931a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#061428",
-            "#061428",
-            "#061428"
+            "#061b28",
+            "#061b28",
+            "#061b28"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#061428",
-            "#061428",
-            "#061428"
+            "#061b28",
+            "#061b28",
+            "#061b28"
         ],
         "BACKGROUND_ACCENT": [
-            "#86b4ea",
-            "#86b4ea",
-            "#86b4ea"
+            "#91d7fa",
+            "#91d7fa",
+            "#91d7fa"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#222959",
-            "#222959",
-            "#222959"
+            "#223359",
+            "#223359",
+            "#223359"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#2678d626",
@@ -79,24 +79,24 @@
             "#000000"
         ],
         "BACKGROUND_PRIMARY": [
-            "#061428",
-            "#061428",
-            "#061428"
+            "#061b28",
+            "#061b28",
+            "#061b28"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0a1426",
-            "#0a1426",
-            "#0a1426"
+            "#0a1926",
+            "#0a1926",
+            "#0a1926"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#111423",
-            "#111423",
-            "#111423"
+            "#111923",
+            "#111923",
+            "#111923"
         ],
         "BACKGROUND_TERTIARY": [
-            "#04122e",
-            "#04122e",
-            "#04122e"
+            "#041d2e",
+            "#041d2e",
+            "#041d2e"
         ],
 	"BG_BACKDROP": [
 	    "#102b48b3",
@@ -104,9 +104,9 @@
 	    "#102b48b3"
 	],
 	"BG_BASE_PRIMARY": [
-	    "#03081c",
-	    "#03081c",
-	    "#03081c"
+	    "#03101c",
+	    "#03101c",
+	    "#03101c"
 	],
 	"BG_SURFACE_OVERLAY_TMP": [
             "#03081c",
@@ -516,7 +516,7 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://i.imgur.com/ebWy0OW.png",
+        "url": "https://i.imgur.com/gi3CnGV.png",
 	"alpha": 1
     },
     "plus": {
